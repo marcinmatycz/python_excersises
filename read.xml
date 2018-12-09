@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<grupa_laboratoryjna>
+<student>
+  <imie>Andrzej</imie>
+  <nazwisko>Klawy</nazwisko>
+  <nr_indeksu>908923</nr_indeksu>
+  <email>klawy@student.agh.edu.pl</email>
+</student>
+<student>
+  <imie>Jan</imie>
+  <nazwisko>Janowicz</nazwisko>
+  <nr_indeksu>123456</nr_indeksu>
+  <email>janowicz@student.agh.edu.pl</email>
+</student>
+</grupa_laboratoryjna>
